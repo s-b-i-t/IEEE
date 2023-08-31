@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/IEEE/static/css/main.0c0df35d.css",
+    "main.js": "/IEEE/static/js/main.21b6c9e3.js",
+    "static/media/logo.jpg": "/IEEE/static/media/logo.2f01d4587b4863a474ac.jpg",
+    "index.html": "/IEEE/index.html",
+    "main.0c0df35d.css.map": "/IEEE/static/css/main.0c0df35d.css.map",
+    "main.21b6c9e3.js.map": "/IEEE/static/js/main.21b6c9e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c0df35d.css",
+    "static/js/main.21b6c9e3.js"
+  ]
+}
