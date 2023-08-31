@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/IEEE/static/media/logo.24d99aa6.jpg"
   },
   {
-    "revision": "d544011c2698bdfa8bfd368d6895b5cb",
+    "revision": "60833ddbfeb74d59f1cd3a678436975f",
     "url": "/IEEE/index.html"
   }
 ];
